@@ -1,4 +1,7 @@
 # Hi, I'm Mohammed Khattab:
+## 🚀 Professional Tagline
+![Role](https://img.shields.io/badge/.NET%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver-111827?style=for-the-badge&logoColor=white)
+
 I’m a passionate Flutter developer who enjoys building real-world mobile applications with clean and scalable architecture. I specialize in integrating APIs, Firebase services, and real-time features like live tracking and notifications.<br>
 I focus on writing efficient, maintainable code and continuously improving my skills in mobile development. I enjoy solving problems and turning ideas into functional, user-friendly applications.
 
