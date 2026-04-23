@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Khattab:
-I’m a passionate Flutter developer who enjoys building real-world mobile applications with clean and scalable architecture. I specialize in integrating APIs, Firebase services, and real-time features like live tracking and notifications.<br>
+I’m a passionate <b>Flutter developer<b> who enjoys building real-world mobile applications with clean and scalable architecture. I specialize in integrating APIs, Firebase services, and real-time features like live tracking and notifications.<br><br>
 I focus on writing efficient, maintainable code and continuously improving my skills in mobile development. I enjoy solving problems and turning ideas into functional, user-friendly applications.
 
 # 💻 Tech Stack:
