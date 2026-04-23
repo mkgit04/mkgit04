@@ -1,6 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building Flutter applications with real-time features like live tracking and notifications, and developing a medical appointment booking system.<br><br>👯 I’m looking to collaborate on<br>Flutter mobile apps, especially projects involving maps, Firebase, or real-time systems.<br><br>🤝 I’m looking for help with<br>Improving backend architecture, system design, and scaling applications.<br><br>🌱 I’m currently learning<br>Advanced Flutter concepts, clean architecture, and backend integration.<br><br>💬 Ask me about<br>Flutter, Firebase, APIs integration, or anything related to mobile app development.<br><br>⚡ Fun fact<br>I’ve worked as a limousine driver, which taught me how to handle pressure, communicate with all kinds of people, and navigate complex situations in real life 😄
-
+# Hi, I'm Mohammed Khattab:
+I’m a passionate Flutter developer who enjoys building real-world mobile applications with clean and scalable architecture. I specialize in integrating APIs, Firebase services, and real-time features like live tracking and notifications.<br>
+I focus on writing efficient, maintainable code and continuously improving my skills in mobile development. I enjoy solving problems and turning ideas into functional, user-friendly applications.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mkhattab.305) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/x_mo_kh_x04/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-mk-khattab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@x_samora_x04) 
